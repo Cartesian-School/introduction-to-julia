@@ -1,3 +1,4 @@
 # Introduction-to-Julia
-![Julia Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Julia_Programming_Language_Logo.svg/1200px-Julia_Programming_Language_Logo.svg.png)
+![Julia Logo](Julia_Programming_Language_Logo.svg)
 Learn the language basics in this 10-part course
+![julia](https://github.com/user-attachments/assets/b8809cc6-6072-4b2e-afce-b16262a5963e)
