@@ -1,12 +1,16 @@
 # Introduction-to-Julia
 
-### Learn the language basics in this 10-part course
+### Learn the language basics in this 12-part course
 
 ![Julia_mini](https://github.com/user-attachments/assets/539096ea-39a1-4c54-beeb-2625474cf90f)
 
 
 
 # **Основы Julia. Слияние Простоты и Мощи** 🚀
+***12 Уроков в блокнотах Jupyter***
+<br>
+<br>
+<br>
 
 **Основано на работе Андреаса Ноака Йенсена (MIT & JuliaComputing)**<br>
 **С обновлениями, дополнениями и переводом Сергея Соболевского.**
