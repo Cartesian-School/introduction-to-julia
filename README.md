@@ -70,6 +70,19 @@ Julia сочетает **интерпретируемость Python** и **пр
 
 <br>
 
+**Экосистема Julia** содержит более 10 000 пакетов, зарегистрированных в [Общем реестре](https://github.com/JuliaRegistries/General), что означает, что поиск нужного пакета может быть сложной задачей. 
+
+К счастью, существуют сервисы, которые могут помочь ориентироваться в экосистеме, в том числе:
+
+- [JuliaHub](https://juliahub.com/ui/Packages) — a [JuliaHub](https://juliahub.com/) service that includes search of all registered open source package documentation, code search, and navigation by tags/keywords.
+
+- [Julia Packages](https://juliapackages.com/) — просматривайте пакеты Julia, фильтруйте по категориям и сортируйте их по популярности, дате создания или последнего обновления. Также поддерживается просмотр пакетов разработчиков.
+
+- [Julia.jl](https://github.com/svaksha/Julia.jl) — систематизация пакетов Julia, созданная вручную (информация о категориях для JuliaPackages также является производной от этой).
+  
+  
+<br
+
 ---
 
 <br>
