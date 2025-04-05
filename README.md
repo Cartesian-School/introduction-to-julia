@@ -273,6 +273,25 @@ Julia активно используется в **исследовательс�
 
 <br>
 
+---
+
+<br>
+
+> [!IMPORTANT]
+> **🚫 Ethical Restrictions**
+> 
+> This work may not be used in:
+> 
+> - Military applications or systems  
+> - Surveillance technologies  
+> - Any activity violating human rights  
+
+<br>
+
+---
+
+<br>
+
 ## 📬 Contact
 
 **Siergej Sobolewski**  
