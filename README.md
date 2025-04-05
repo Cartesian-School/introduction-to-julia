@@ -1,3 +1,10 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Julia](https://img.shields.io/badge/-Julia-%23A270BA?style=flat&logo=julia&logoColor=white)](https://julialang.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=Jupyter)](https://jupyter.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=flat&logo=FreeBSD&logoColor=white)](https://www.freebsd.org/)
+
 # Introduction-to-Julia
 
 ### Learn the language basics in this 12-part course
