@@ -271,4 +271,18 @@ Julia активно используется в **исследовательс�
 
 💡 **Julia – это язык будущего для AI, ML и High-Performance Computing!** 🚀
 
-&nbsp;
+<br>
+
+## 📬 Contact
+
+**Siergej Sobolewski**  
+
+[![Email](https://img.shields.io/badge/Email-s.sobolewski@hotmail.com-blue?logo=protonmail)](mailto:s.sobolewski@hotmail.com)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-SSobol77-black?logo=github)](https://github.com/SSobol77)  
+
+[![Website](https://img.shields.io/badge/Website-Cartesian_School-orange?logo=internet-explorer)](https://cartesianschool.com)
+
+<br>
+
+---
